@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Facial Emotion recognition**
 
-- 💬 Ask me about **Machine Learning(CV, NLP), Data Science**
+- 💬 Ask me about **Machine Learning (CV, NLP), Data Science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
