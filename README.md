@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreif-shouman&label=Profile%20views&color=0e75b6&style=flat" alt="shreif-shouman" /> </p>
 
-- 🔭 I’m currently working on **My Thesis**
+- 🔭 I’m currently working on **my Thesis**
 
 - 💬 Ask me about **Machine Learning (CV, NLP) , Data Science**
 
