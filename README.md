@@ -36,7 +36,7 @@
 
 
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
+
 [![Shreif-Shouman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shreif-Shouman&theme=github-compact)](https://github.com/Shreif-Shouman/github-readme-activity-graph)
 
 | .                                                                                                                                       | .                                                                                                                         |
