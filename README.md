@@ -36,7 +36,7 @@
 # 📊 GitHub Stats:                                                                          
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![](https://github-readme-stats.vercel.app/api?username=Shreif-Shouman&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreif-Shouman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
+| ![](https://github-readme-stats.vercel.app/api?username=Shreif-Shouman&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreif-Shouman&langs_count=6&layout=compact&theme=vue-dark&bg_color=0d1117&border_radius=15&border_color=0d1117) |
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shreif-Shouman&theme=dark&hide_border=false)<br/>
