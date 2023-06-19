@@ -41,57 +41,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--   GitHub stats graph -->
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Shreif-Shouman's github stats](https://github-readme-stats.vercel.app/api?username=Shreif-Shouman) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreif-Shouman) |
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreif-shouman&" alt="shreif-shouman" /></p>
-
 <!--   grid-snake -->
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
