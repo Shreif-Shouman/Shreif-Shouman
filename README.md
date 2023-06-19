@@ -36,9 +36,6 @@
 
 
 <!--   GitHub stats graph -->
-
-[![Shreif-Shouman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shreif-Shouman&theme=github-compact)](https://github.com/Shreif-Shouman/github-readme-activity-graph)
-
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![Shreif-Shouman's github stats](https://github-readme-stats.vercel.app/api?username=Shreif-Shouman&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreif-Shouman&theme=radical&layout=compact) |
