@@ -36,7 +36,7 @@
 # 📊 GitHub Stats:                                                                          
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreif-Shouman)](https://github.com/anuraghazra/github-readme-stats) | |
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreif-Shouman)](https://github.com/Shreif-Shouman/github-readme-stats) | |
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shreif-Shouman&theme=dark&hide_border=false)<br/>
