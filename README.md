@@ -3,7 +3,7 @@
 ![](./src/header_.png)
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 <h1 align="center">Hi 👋, I'm Shreif Shouman</h1>
-<h3 align="center">I'm an AI student with a strong interest in data science and machine learning.</h3>
+<h3 align="center">I'm a master AI student with a keen focus on data science, Gen AI, and machine learning..</h3>
 
 
 <!--   my-icons -->
