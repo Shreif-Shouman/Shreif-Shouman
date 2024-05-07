@@ -28,7 +28,8 @@
 <p align="left">
 <a href="https://instagram.com/shreif_shouman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreif_shouman" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shreif-shouman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shreif-shouman" height="30" width="40" /></a>
-</p>\\
+</p>
+\\
 
 
 # 💻 Tech Stack:
