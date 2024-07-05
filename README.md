@@ -40,7 +40,7 @@
 <div>
 <a href="https://github.com/Shreif-Shouman">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreif-Shouman&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src=/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shreif-Shouman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shreif-Shouman&theme=dark&hide_border=false)<br/>
