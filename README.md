@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on **my Thesis**
 
-- 💬 Ask me about **Data Science, Machine Learning, LLMs**
+- 💬 Ask me about **AI, Machine Learning, LLMs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
